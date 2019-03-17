@@ -984,9 +984,9 @@ h {
   justify-content: center;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 640px) {
   .container {
-    max-width: 700px;
+    max-width: 640px;
   }
 
   .logo {
@@ -994,7 +994,7 @@ h {
   }
 
   main {
-    max-width: 700px;
+    max-width: 600px;
   }
 }
 

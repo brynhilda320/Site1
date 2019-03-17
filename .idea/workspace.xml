@@ -1,69 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c80a6e07-abc4-49b2-93c6-448d117bdeab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LESS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/.idea/FAQ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/fonts/PlayfairDisplay-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/fonts/Signika-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/fonts/Signika-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/img/BBB-min.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/img/Rectangle 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/img/Sprait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/img/Stars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/img/napp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/img/screen_1400x800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/static/img/whitestar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/PlayfairDisplay-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/Signika-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/Signika-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/BBB-min.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Frame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Group 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Mask Group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Mask Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Mount.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Podval.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Rectangle 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Rectangle 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Rectangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Sprait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Stars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Testimonials.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/image 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/napp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/picturehover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/pictureone.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/picturethree.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/picturetwo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/screen_1400x800 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/screen_1400x800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/shutterstock_528171304.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/whitestar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    <list default="true" id="c80a6e07-abc4-49b2-93c6-448d117bdeab" name="Default Changelist" comment="Adaptiv">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -81,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="73">
-                  <caret line="172" column="50" selection-start-line="172" selection-start-column="50" selection-end-line="172" selection-end-column="50" />
+                <state relative-caret-position="274">
+                  <caret line="196" column="52" selection-start-line="196" selection-start-column="52" selection-end-line="196" selection-end-column="52" />
                 </state>
               </provider>
             </entry>
@@ -94,8 +35,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+                <state relative-caret-position="264">
+                  <caret line="1005" column="1" selection-start-line="1005" selection-start-column="1" selection-end-line="1005" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -119,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../site-two/style.less" />
-        <option value="$PROJECT_DIR$/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.scss" />
       </list>
     </option>
   </component>
@@ -136,8 +77,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Usatov.SCCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Usatov.SCCS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,18 +126,20 @@
       <workItem from="1552234524305" duration="6062000" />
       <workItem from="1552484720538" duration="719000" />
       <workItem from="1552485748830" duration="933000" />
-      <workItem from="1552486805819" duration="456000" />
+      <workItem from="1552486805819" duration="1369000" />
+      <workItem from="1552587047749" duration="1211000" />
+      <workItem from="1552836314168" duration="258000" />
+      <workItem from="1552836617620" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21661000" />
+    <option name="totallyTimeSpent" value="24066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08258928" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14806548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -198,8 +151,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.299509" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -208,21 +162,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adaptiv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaptiv" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../site-two/index.html" />
     <entry file="file://$PROJECT_DIR$/../OncePage.Usatov/style.css" />
     <entry file="file://$PROJECT_DIR$/../site-two/style.less" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="172" column="50" selection-start-line="172" selection-start-column="50" selection-end-line="172" selection-end-column="50" />
+        <state relative-caret-position="274">
+          <caret line="196" column="52" selection-start-line="196" selection-start-column="52" selection-end-line="196" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="264">
+          <caret line="1005" column="1" selection-start-line="1005" selection-start-column="1" selection-end-line="1005" selection-end-column="1" />
         </state>
       </provider>
     </entry>
