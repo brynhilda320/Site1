@@ -1,21 +1,14 @@
-var One = "Candy";
-alert (One + " This : " + typeof(One));
-console.log(typeof(One));
-var Three = 7;
-alert (Three + " This : " + typeof(Three));
-console.log(typeof(Three));
-var Five = false;
-alert (Five + " This : " + typeof(Five));
-console.log(typeof(Five));
-var Seven = [55,15,13 , 22];
-alert (Seven + " This : " + typeof(Seven));
-console.log(typeof(Seven));
-var Nine = null;
-alert(Nine + " This : " + typeof (Nine));
-console.log(typeof(Nine));
-var Eleven  = undefined;
-alert(Eleven + " This : " + typeof(Eleven));
-console.log(typeof(Eleven));
-var Thirteen = [1,'Bob','Steve',10];
-alert(Thirteen +"This : " + typeof (Thirteen));
-console.log(typeof (Thirteen));
+var a=1,b=1,c,d;
+c=++a; alert(c);//В строке  вызов ++i увеличит переменную, а затем вернёт ее значение в a. Так что в a попадёт значение i после увеличения.
+d=b++;alert(d);// Постфиксная форма i++ отличается от префиксной ++i тем, что возвращает старое значение, бывшее до увеличения.
+c=(2+ ++a);alert(c);// a=2+a , c= 2+3 =5
+d=(2+b++);alert (d);//b=2+b, d=2+2=4
+alert(a);//как писал выше a=2+a=3
+alert(b);//как писал выше b=2+b=3
+
+
+
+var z=2;
+var x=1+(z*=2);alert(x);// z*=2  это z=2*2=4 , x=1+4=5
+
+
